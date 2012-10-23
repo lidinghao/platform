@@ -8,6 +8,35 @@
 
 /* Begin PBXFileReference section */
 		F60403D115449400001673C0 /* libplatform.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libplatform.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		F60403D815449429001673C0 /* BackupManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BackupManager.h; sourceTree = "<group>"; };
+		F60403D91544943E001673C0 /* DaemonSecurityManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DaemonSecurityManager.h; sourceTree = "<group>"; };
+		F60403DA15449462001673C0 /* FileManager .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FileManager .h"; sourceTree = "<group>"; };
+		F60403DB15449494001673C0 /* ICancelHint .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ICancelHint .h"; sourceTree = "<group>"; };
+		F60403DC154494AA001673C0 /* IPlatformOperationListener .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IPlatformOperationListener .h"; sourceTree = "<group>"; };
+		F60403DD154494E0001673C0 /* InstallManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstallManager.h; sourceTree = "<group>"; };
+		F60403DE154494FE001673C0 /* PlatformLicenseManager .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PlatformLicenseManager .h"; sourceTree = "<group>"; };
+		F60403DF15449511001673C0 /* RemoteStation .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RemoteStation .h"; sourceTree = "<group>"; };
+		F60403E015449521001673C0 /* StationManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StationManager.h; sourceTree = "<group>"; };
+		F60403E115449537001673C0 /* BOverwritePolicy .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BOverwritePolicy .h"; sourceTree = "<group>"; };
+		F60403E215449547001673C0 /* BStationStatus .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BStationStatus .h"; sourceTree = "<group>"; };
+		F60403E315449557001673C0 /* FileTransferOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FileTransferOperation.h; sourceTree = "<group>"; };
+		F60403E415449567001673C0 /* InstallOperation .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InstallOperation .h"; sourceTree = "<group>"; };
+		F60403E51544957B001673C0 /* LocalPlatform .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LocalPlatform .h"; sourceTree = "<group>"; };
+		F60403E61544958D001673C0 /* PlatformDaemon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlatformDaemon.h; sourceTree = "<group>"; };
+		F60403E71544959E001673C0 /* ICancelHint.CanceledException.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ICancelHint.CanceledException.h; sourceTree = "<group>"; };
+		F60403E91544963F001673C0 /* BFileReconcilerReconciliationResults .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BFileReconcilerReconciliationResults .h"; sourceTree = "<group>"; };
+		F60403EA1544965B001673C0 /* InstallationSummary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstallationSummary.h; sourceTree = "<group>"; };
+		F60403EB15449682001673C0 /* PlatformDependency.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlatformDependency.h; sourceTree = "<group>"; };
+		F60403EC15449692001673C0 /* PlatformPart.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlatformPart.h; sourceTree = "<group>"; };
+		F60403ED154496B4001673C0 /* BFileReconciler .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BFileReconciler .h"; sourceTree = "<group>"; };
+		F60403EE154496CD001673C0 /* BFileReconcilerFileReconciliationResults .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BFileReconcilerFileReconciliationResults .h"; sourceTree = "<group>"; };
+		F60403EF154496E9001673C0 /* BFileReconcilerLazyReconciliationResults .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BFileReconcilerLazyReconciliationResults .h"; sourceTree = "<group>"; };
+		F60403F0154496FF001673C0 /* BPlatformPartType .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BPlatformPartType .h"; sourceTree = "<group>"; };
+		F60403F11544972E001673C0 /* BVersionRelation .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BVersionRelation .h"; sourceTree = "<group>"; };
+		F60403F315449766001673C0 /* TcpIpManager.h .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TcpIpManager.h .h"; sourceTree = "<group>"; };
+		F60403F5154497B8001673C0 /* TimeManager .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TimeManager .h"; sourceTree = "<group>"; };
+		F60403F615449873001673C0 /* BDaemonPlatform .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BDaemonPlatform .h"; sourceTree = "<group>"; };
+		F61E402E154601D000E119BD /* BSystemPlatformService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BSystemPlatformService.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -24,7 +53,27 @@
 		F60403C615449400001673C0 = {
 			isa = PBXGroup;
 			children = (
+				F60403D815449429001673C0 /* BackupManager.h */,
+				F60403E115449537001673C0 /* BOverwritePolicy .h */,
+				F60403E215449547001673C0 /* BStationStatus .h */,
+				F61E402E154601D000E119BD /* BSystemPlatformService.h */,
+				F60403D91544943E001673C0 /* DaemonSecurityManager.h */,
+				F60403DA15449462001673C0 /* FileManager .h */,
+				F60403E315449557001673C0 /* FileTransferOperation.h */,
+				F60403DB15449494001673C0 /* ICancelHint .h */,
+				F60403E71544959E001673C0 /* ICancelHint.CanceledException.h */,
+				F60403DD154494E0001673C0 /* InstallManager.h */,
+				F60403E415449567001673C0 /* InstallOperation .h */,
+				F60403DC154494AA001673C0 /* IPlatformOperationListener .h */,
+				F60403E51544957B001673C0 /* LocalPlatform .h */,
+				F60403E61544958D001673C0 /* PlatformDaemon.h */,
+				F60403DE154494FE001673C0 /* PlatformLicenseManager .h */,
+				F60403DF15449511001673C0 /* RemoteStation .h */,
+				F60403E015449521001673C0 /* StationManager.h */,
+				F60403E815449619001673C0 /* install */,
 				F60403D215449400001673C0 /* Products */,
+				F60403F215449753001673C0 /* tcpip */,
+				F60403F4154497AA001673C0 /* time */,
 			);
 			sourceTree = "<group>";
 		};
@@ -34,6 +83,39 @@
 				F60403D115449400001673C0 /* libplatform.dylib */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		F60403E815449619001673C0 /* install */ = {
+			isa = PBXGroup;
+			children = (
+				F60403E91544963F001673C0 /* BFileReconcilerReconciliationResults .h */,
+				F60403EA1544965B001673C0 /* InstallationSummary.h */,
+				F60403EB15449682001673C0 /* PlatformDependency.h */,
+				F60403EC15449692001673C0 /* PlatformPart.h */,
+				F60403ED154496B4001673C0 /* BFileReconciler .h */,
+				F60403EE154496CD001673C0 /* BFileReconcilerFileReconciliationResults .h */,
+				F60403EF154496E9001673C0 /* BFileReconcilerLazyReconciliationResults .h */,
+				F60403F0154496FF001673C0 /* BPlatformPartType .h */,
+				F60403F11544972E001673C0 /* BVersionRelation .h */,
+				F60403F615449873001673C0 /* BDaemonPlatform .h */,
+			);
+			name = install;
+			sourceTree = "<group>";
+		};
+		F60403F215449753001673C0 /* tcpip */ = {
+			isa = PBXGroup;
+			children = (
+				F60403F315449766001673C0 /* TcpIpManager.h .h */,
+			);
+			name = tcpip;
+			sourceTree = "<group>";
+		};
+		F60403F4154497AA001673C0 /* time */ = {
+			isa = PBXGroup;
+			children = (
+				F60403F5154497B8001673C0 /* TimeManager .h */,
+			);
+			name = time;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -182,6 +264,7 @@
 				F60403D715449400001673C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,14 @@
+//
+//  RemoteStation .h
+//  platform
+//
+//  Created by li hao on 12-4-23.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#ifndef platform_RemoteStation__h
+#define platform_RemoteStation__h
+
+
+
+#endif
